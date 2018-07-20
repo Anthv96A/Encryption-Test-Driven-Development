@@ -1,0 +1,9 @@
+C:\Users\Anthony\source\repos\Encryption\Encryption\bin\Debug\netstandard2.0\Encryption.deps.json
+C:\Users\Anthony\source\repos\Encryption\Encryption\bin\Debug\netstandard2.0\Encryption.dll
+C:\Users\Anthony\source\repos\Encryption\Encryption\bin\Debug\netstandard2.0\Encryption.pdb
+C:\Users\Anthony\source\repos\Encryption\Encryption\obj\Debug\netstandard2.0\Encryption.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\Encryption\Encryption\obj\Debug\netstandard2.0\Encryption.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\Encryption\Encryption\obj\Debug\netstandard2.0\Encryption.AssemblyInfoInputs.cache
+C:\Users\Anthony\source\repos\Encryption\Encryption\obj\Debug\netstandard2.0\Encryption.AssemblyInfo.cs
+C:\Users\Anthony\source\repos\Encryption\Encryption\obj\Debug\netstandard2.0\Encryption.dll
+C:\Users\Anthony\source\repos\Encryption\Encryption\obj\Debug\netstandard2.0\Encryption.pdb
